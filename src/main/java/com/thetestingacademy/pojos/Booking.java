@@ -32,7 +32,7 @@ public class Booking {
     }
 
     public String getLastname() {
-        return lastname;
+        return lastname; //lastname added
     }
 
     public void setLastname(String lastname) {
@@ -70,5 +70,10 @@ public class Booking {
     public void setAdditionalneeds(String additionalneeds) {
         this.additionalneeds = additionalneeds;
     }
+//    public void new(){
+//        System.out.println("new");
+//    }
 
 }
+//again added
+//new pojo added
